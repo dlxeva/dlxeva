@@ -2,15 +2,6 @@
 
 <img src="banner.svg" width="100%" alt="人工智障研究所 — Institute of Artificial Absurdity">
 
-<br>
-
-<strong>This archive studies what AI does to human judgment—and builds systems that keep judgment, project state, and delivery decisions traceable.</strong>
-
-<br>
-<br>
-
-<sub><code>RESEARCH · PROTOCOLS · ANALYSIS · FIELD SYSTEMS</code></sub>
-
 </div>
 
 <br>
