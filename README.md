@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="">
+<img src="banner.svg" width="100%" alt="人工智障研究所 — Institute of Artificial Absurdity">
+
+<br>
+
+<strong>This archive studies what AI does to human judgment—and builds systems that keep judgment, project state, and delivery decisions traceable.</strong>
+
+<br>
+<br>
+
+<sub><code>RESEARCH · PROTOCOLS · ANALYSIS · FIELD SYSTEMS</code></sub>
 
 </div>
 
@@ -32,14 +41,20 @@
     </tr>
     <tr>
       <td><code>002</code></td>
-      <td>TOOL</td>
-      <td><a href="https://github.com/dlxeva/FlowGrid"><strong>FlowGrid</strong> — Project Memory Protocol</a></td>
+      <td>PROTOCOL</td>
+      <td><a href="https://github.com/dlxeva/FlowGrid"><strong>FlowGrid</strong> — Project-State Context Engine</a></td>
       <td><code>Active</code></td>
     </tr>
     <tr>
       <td><code>003</code></td>
-      <td>TOOL</td>
-      <td><a href="https://github.com/dlxeva/biz-retro-analyzer"><strong>biz-retro-analyzer</strong> — Business Retro Analysis</a></td>
+      <td>ANALYSIS</td>
+      <td><a href="https://github.com/dlxeva/biz-retro-analyzer"><strong>Biz Retro Analyzer</strong> — Evidence-First Dialogue Intelligence</a></td>
+      <td><code>Active</code></td>
+    </tr>
+    <tr>
+      <td><code>004</code></td>
+      <td>FIELD SYSTEM</td>
+      <td><a href="https://github.com/dlxeva/fde-operator-os"><strong>Applied AI Operator OS</strong> — Delivery Framing for Operational AI</a></td>
       <td><code>Active</code></td>
     </tr>
   </tbody>
@@ -53,9 +68,11 @@
 
 <sub><code>FIG. 01 — RESEARCH SPECIMEN</code></sub>
 
-**Human-RLAIF** — Human Reinforcement Learning from AI Feedback
+### Human-RLAIF
 
-Proposes that humans are also being trained by AI: a longitudinal self-case study on three years of GPT conversations, examining how AI feedback reshapes questioning strategies, judgment frameworks, and identity coordinates.
+**Question** — What happens when humans are repeatedly trained by AI feedback?
+
+A longitudinal self-case study based on three years of GPT conversations, examining how AI feedback reshapes questioning strategies, judgment frameworks, and identity coordinates.
 
 → [Read the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928698)
 
@@ -65,11 +82,13 @@ Proposes that humans are also being trained by AI: a longitudinal self-case stud
 
 <br>
 
-<sub><code>FIG. 02 — TOOL SPECIMEN</code></sub>
+<sub><code>FIG. 02 — PROTOCOL SPECIMEN</code></sub>
 
-**FlowGrid** — Project Memory Protocol
+### FlowGrid
 
-Keeps decisions and rationale in files, traceable by both humans and AI.
+**Question** — How can long-running AI projects preserve judgment without reloading raw conversation history?
+
+A local project-state context engine that keeps decisions, rationale, pending changes, and current project state traceable across sessions and agents.
 
 → [Open repository](https://github.com/dlxeva/FlowGrid)
 
@@ -79,11 +98,13 @@ Keeps decisions and rationale in files, traceable by both humans and AI.
 
 <br>
 
-<sub><code>FIG. 03 — TOOL SPECIMEN</code></sub>
+<sub><code>FIG. 03 — ANALYSIS SPECIMEN</code></sub>
 
-**biz-retro-analyzer** — Business Retro Analysis
+### Biz Retro Analyzer
 
-Turns messy conversations into facts, claims, motives, and next actions.
+**Question** — How do we audit messy project conversations without smoothing away evidence and disagreement?
+
+Turns raw conversations into supported facts, participant claims, influence chains, judgment audits, and next actions.
 
 → [Open repository](https://github.com/dlxeva/biz-retro-analyzer)
 
@@ -93,9 +114,27 @@ Turns messy conversations into facts, claims, motives, and next actions.
 
 <br>
 
+<sub><code>FIG. 04 — FIELD SYSTEM SPECIMEN</code></sub>
+
+### Applied AI Operator OS
+
+**Question** — How do we turn an ambiguous customer problem into a delivery-worthy AI operating loop?
+
+A reusable operator playbook for qualifying AI opportunities, modeling operational reality, defining human-in-the-loop boundaries, and compressing broad ideas into testable delivery loops.
+
+→ [Open repository](https://github.com/dlxeva/fde-operator-os)
+
+<br>
+
+---
+
+<br>
+
 <sub><code>CURATOR'S NOTE</code></sub>
 
-More thinking than building. Writing at [aizhiz.com](https://aizhiz.com).
+**Research first. Build what survives contact with reality.**
+
+Writing and field notes at [aizhiz.com](https://aizhiz.com).
 
 <br>
 
@@ -110,6 +149,6 @@ More thinking than building. Writing at [aizhiz.com](https://aizhiz.com).
 <br>
 <br>
 
-<img src="wax-seal.png" width="28" alt="">
+<img src="wax-seal.png" width="28" alt="Institute seal">
 
 </div>
