@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">人工智障研究所 — Institute of Artificial Absurdity</title>
+  <desc id="desc">Institutional archive-style banner for the dlxeva GitHub profile.</desc>
+
+  <rect width="1600" height="700" fill="#e7dfd1"/>
+  <rect x="38" y="38" width="1524" height="624" fill="none" stroke="#171717" stroke-width="2"/>
+  <rect x="52" y="52" width="1496" height="596" fill="none" stroke="#171717" stroke-width="1" opacity="0.45"/>
+
+  <g stroke="#171717" stroke-width="1" opacity="0.16">
+    <path d="M52 164H1548M52 548H1548"/>
+    <path d="M248 52V648M1348 52V648"/>
+    <path d="M52 116H1548M52 596H1548" stroke-dasharray="5 8"/>
+  </g>
+
+  <g fill="#171717" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="76" y="92" font-size="18" letter-spacing="3">PERSONAL RESEARCH ARCHIVE</text>
+    <text x="1524" y="92" font-size="18" text-anchor="end" letter-spacing="3">VOL. 01 / ACTIVE</text>
+    <text x="76" y="622" font-size="15" letter-spacing="2">HUMAN JUDGMENT · PROJECT MEMORY · APPLIED AI</text>
+    <text x="1524" y="622" font-size="15" text-anchor="end" letter-spacing="2">DLXEVA / AIZHIZ.COM</text>
+  </g>
+
+  <g transform="translate(800 332)" text-anchor="middle" fill="#171717">
+    <text y="-72" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC',serif" font-size="82" font-weight="700" letter-spacing="12">人工智障研究所</text>
+    <line x1="-480" y1="-28" x2="480" y2="-28" stroke="#171717" stroke-width="2"/>
+    <text y="42" font-family="Georgia,'Times New Roman',serif" font-size="42" letter-spacing="7">INSTITUTE OF ARTIFICIAL ABSURDITY</text>
+    <text y="105" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="4">RESEARCHING WHAT AI DOES TO HUMAN JUDGMENT</text>
+  </g>
+
+  <g transform="translate(120 238)" fill="none" stroke="#171717">
+    <circle cx="0" cy="0" r="34" stroke-width="2"/>
+    <circle cx="0" cy="0" r="22" stroke-width="1"/>
+    <path d="M-10 0H10M0-10V10" stroke-width="1.5"/>
+  </g>
+
+  <g transform="translate(1480 238)" fill="none" stroke="#171717">
+    <rect x="-34" y="-34" width="68" height="68" stroke-width="2"/>
+    <path d="M-22 18L0-20L22 18Z" stroke-width="1.5"/>
+    <circle cx="0" cy="8" r="5" fill="#171717" stroke="none"/>
+  </g>
+
+  <g transform="translate(122 486)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" fill="#171717">
+    <text font-size="13" letter-spacing="2">ACCESSION</text>
+    <text y="25" font-size="24">IA-001</text>
+  </g>
+
+  <g transform="translate(1478 480)">
+    <circle r="58" fill="none" stroke="#8b1e1e" stroke-width="3" opacity="0.85"/>
+    <circle r="48" fill="none" stroke="#8b1e1e" stroke-width="1.5" opacity="0.85" stroke-dasharray="3 4"/>
+    <text y="-5" text-anchor="middle" fill="#8b1e1e" font-family="Georgia,'Times New Roman',serif" font-size="18" font-weight="700">AIA</text>
+    <text y="18" text-anchor="middle" fill="#8b1e1e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="2">ARCHIVED</text>
+  </g>
+</svg>
