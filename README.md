@@ -1,32 +1,22 @@
-# dlxeva
+一直在想人和 AI 怎么协作。
 
-AI-native knowledge work systems · Applied AI delivery · Project memory
+不是人下指令、AI 执行——而是两种思考方式怎么互相看见，
+各自的判断怎么不被对方塑造、稀释。
 
-I build tools and protocols for preserving context, turning messy business reality into operator loops, and making AI collaboration auditable.
+这个问题没有标准答案，所以一边想，一边做：
 
-[Website: aizhiz.com](https://aizhiz.com)
+**[Human-RLAIF（论文）](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928698)** — 基于 AI 反馈的人类强化学习
+提出"人也在被 AI 训练"的框架：用三年 GPT 对话痕迹做纵向自我案例研究，
+观察 AI 反馈如何重塑人的提问策略、判断框架与身份坐标。
 
-## Main Projects
+**[FlowGrid](https://github.com/dlxeva/FlowGrid)** — 项目记忆协议
+让决策过程和依据以文件形式存在，人和 AI 都能追溯。
 
-**[FlowGrid](https://github.com/dlxeva/FlowGrid)** — local-first project memory protocol for AI-assisted knowledge work.  
-Keeps decisions, rationale, reviewable patches, and resumable project state in files.
+**[biz-retro-analyzer](https://github.com/dlxeva/biz-retro-analyzer)** — 业务复盘分析
+把混乱的对话拆成事实、主张和动机，让人看到 AI 看到了什么。
 
-**[FDE Operator OS](https://github.com/dlxeva/fde-operator-os)** — applied AI delivery playbook.  
-Turns vague customer situations into operators, triggers, business objects, evidence flows, and pilot contracts.
+想的比做的多，写在 [aizhiz.com](https://aizhiz.com)。
 
-**[Biz Retro Analyzer](https://github.com/dlxeva/biz-retro-analyzer)** — evidence-first dialogue intelligence.  
-Turns messy conversations into facts, claims, influence chains, judgment audits, and next actions.
+---
 
-## Supplementary
-
-- **[flowgrid-openclaw](https://github.com/dlxeva/flowgrid-openclaw)** — agent-host integration experiment
-- **[offside-fence](https://github.com/dlxeva/offside-fence)** — fictional sports-tech concept artifact
-- **[ai-irin-site](https://github.com/dlxeva/ai-irin-site)** — website layer for aizhiz.com
-
-## aizhiz.com
-
-[aizhiz.com](https://aizhiz.com) collects my AI-native content, tools, essays, and experiments.
-
-The site is about how people think, work, create, and preserve judgment with increasingly capable AI systems.
-
-中文：我主要关注 AI 原生知识工作、FDE 式 AI 落地、项目记忆、决策日志与复杂协作复盘。
+前腾讯游戏发行，十年营销与内容。
