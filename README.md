@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="wax-seal.png" width="72" alt="wax seal">
+<img src="wax-seal.png" width="64" alt="">
 
 <br>
 
@@ -134,6 +134,6 @@ More thinking than building. Writing at [aizhiz.com](https://aizhiz.com).
 <br>
 <br>
 
-<img src="wax-seal.png" width="32" alt="">
+<img src="wax-seal.png" width="28" alt="">
 
 </div>
