@@ -1,32 +1,8 @@
 <div align="center">
 
-<img src="wax-seal.png" width="64" alt="">
-
-<br>
-
-<sub><code>PERSONAL REGISTRY · VOL. 01</code></sub>
-<br>
-<sub><code>● ACTIVE</code></sub>
+<img src="banner.png" width="100%" alt="">
 
 </div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### Thinking about how humans and AI actually collaborate.
-
-</div>
-
-<br>
-
-Not humans giving orders and AI executing — but how two different ways of thinking can see each other without one side's judgment being shaped or diluted by the other.
-
-No standard answer. So I think and build in parallel.
 
 <br>
 
